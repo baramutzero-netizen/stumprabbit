@@ -1,0 +1,5 @@
+tools/__pycache__/
+*.png
+!assets/png/*.png
+shorts/*.mp4
+shorts/*.webm
